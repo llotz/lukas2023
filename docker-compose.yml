@@ -1,0 +1,9 @@
+version: '3.8'
+services:
+  lukas2023-web:
+    image: ubuntu/apache2
+    container_name: lukas2023-web
+    volumes:
+      - ./src:/var/www/html/
+    ports:
+      - 80:80
