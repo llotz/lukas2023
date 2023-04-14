@@ -16,6 +16,13 @@ body{
 
 .menu{
 	font-weight: 200;
+	font-size: 1.4em;
+	padding: 0.4em;
+	text-align: left;
+}
+
+.selected{
+	border-bottom: 1px solid #ff774a;
 }
 
 .badges{
@@ -42,19 +49,46 @@ body{
 	text-align: left;
 }
 
+.content-header{
+	color: #ff774a;
+	text-align:center;
+	font-size: 1.3em;
+}
+
 .shitface{
 	margin-top: 1em;
 	border-radius: 50%;
 	max-width:150px;
 }
 
+.links{
+	text-align: left;
+}
+
+.links a:link{
+	text-decoration: underline;
+}
+
 a:link, a:visited, a:hover, a:active {
-	color: lightgray;
+	color: #ff774a;
   text-decoration: none;
+}
+
+footer{
+	margin-top:2em;
+	border-top: 1px dashed white;
+}
+
+footer a:link {
+	text-decoration: underline;
 }
 
 @media only screen and (max-width: 800px) {
   body {
     font-size: 1.1em;
   }
+
+	.menu{
+		text-align: right;
+	}
 }
