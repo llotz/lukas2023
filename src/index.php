@@ -31,12 +31,6 @@
 		Grüß dich! Ich bin Lukas und das ist meine Webseite.
 	</div>
 	<div class="content">
-		<div class="content-header">Wer ich bin</div>
-		<p>
-			Ich bin leidenschaftlicher Softwareentwickler, programmiere beruflich
-			und ab und zu sitze ich auch an einem kleinen privaten Projekt.
-		</p>
-		<div class="content-header">Was ich treibe</div>
 		<p>
 			Beruflich bin ich hauptsächlich im .NET Umfeld mit C# zugange. Privat
 			probiere ich auch gerne mal irgendwas von den zahllosen neuen Sachen,
