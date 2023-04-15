@@ -105,3 +105,5 @@
 [DE] [handywerte](https://handywerte.de/) / Strahlungswerte verschiedener Smartphones
 
 [DE] [die perfekte rasur](https://nichtinseattle.de/die-perfekte-rasur) / Blogeintrag übers Rasieren und die verschiedenen Varianten
+
+[DE] [worldometers](https://www.worldometers.info/de/) / Zähler zum Nachdenken
