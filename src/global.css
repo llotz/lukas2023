@@ -16,7 +16,7 @@ body{
 
 .menu{
 	font-weight: 200;
-	font-size: 1.4em;
+	font-size: 1.2em;
 	padding: 0.4em;
 	text-align: left;
 }
@@ -94,5 +94,6 @@ footer a:link {
 
 	.menu{
 		text-align: right;
+		font-size: 1.4em;
 	}
 }
