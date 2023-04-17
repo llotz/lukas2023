@@ -32,6 +32,13 @@
 	</div>
 	<div class="content">
 		<p>
+			Ich bin Softwareentwickler mit Leidenschaft. Ich entwickle Systeme, 
+			arbeite mich in Bestandslösungen ein und erweitere sie, verbringe 
+			gerne die ein oder andere Stunde meines Lebens damit, Probleme 
+			technisch zu lösen und habe Spaß dabei.
+		</p>
+		
+		<p>
 			Beruflich bin ich hauptsächlich im .NET Umfeld mit C# zugange. Privat
 			probiere ich auch gerne mal irgendwas von den zahllosen neuen Sachen,
 			die jeden Tag rauskommen. Von Zeit zu Zeit mache ich mir aber auch gerne
