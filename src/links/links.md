@@ -84,7 +84,7 @@
 
 [DE] [greatestview](https://greatestview.de/) / Blog eines Webentwicklers. Schöner Schreibstil, find ich ganz interessant
 
-[DE] [techboth](http://techbotch.org/) / Blog eines Tüftlers, der von Elektrotechnik bis Heimautomatisierung darumtüdelt
+[DE] [techbotch](http://techbotch.org/) / Blog eines Tüftlers, der von Elektrotechnik bis Heimautomatisierung darumtüdelt
 
 ### Websites
 
