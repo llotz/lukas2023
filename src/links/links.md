@@ -102,7 +102,7 @@
 
 [EN] [Bastard Operator from Hell](http://bofharchive.com/) / Das Original: Die Geschichten des Bastard Operator from Hell.
 
-[DE] [Bastard Operatpr from Hell](https://www.gimizu.de/basta/) / Ein Teil der Geschichten des BOFH auf deutsch übersetzt.
+[DE] [Bastard Operator from Hell](https://www.gimizu.de/basta/) / Ein Teil der Geschichten des BOFH auf deutsch übersetzt.
 
 ### Sonstiges
 
