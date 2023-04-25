@@ -88,6 +88,8 @@
 
 ### Websites
 
+[DE] [fingers welt](https://fingers-welt.de/home.htm) / durchgepeitschter Bastler
+
 [EN] [folklore](https://www.folklore.org/) / Sammlung mit Anekdoten über die Entstehung und Entwicklung von Apple's Macintosh
 
 [EN] [nathan's toasty tech](http://toastytech.com/) / Die Websites eines Entwicklers mit sehr eigenen Ansichten über Technologie
