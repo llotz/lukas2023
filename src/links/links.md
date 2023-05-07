@@ -106,8 +106,8 @@
 
 ### Sonstiges
 
-[DE] [handywerte](https://handywerte.de/) / Strahlungswerte verschiedener Smartphones
+[DE] [Solar-Rechner](https://re.jrc.ec.europa.eu/pvg_tools/de/) / Berechnungswerkzeug für die Ausrichtung und Dimensionierung von PV-Anlagen
 
-[DE] [die perfekte rasur](https://nichtinseattle.de/die-perfekte-rasur) / Blogeintrag übers Rasieren und die verschiedenen Varianten
+[DE] [handywerte](https://handywerte.de/) / Strahlungswerte verschiedener Smartphones
 
 [DE] [worldometers](https://www.worldometers.info/de/) / Zähler zum Nachdenken
