@@ -18,6 +18,10 @@
 
 ### Software
 
+[EN] [Caddy 2](https://caddyserver.com/) / Potenter Webserver, Loadbalancer, Reverse Proxy
+
+[EN] [pocketbase](https://pocketbase.io/) / Selbstgehosteted Open Source Backend, optimiert für mobile Anwendungen
+
 [EN] [hackmd](https://hackmd.io) / Browserbasiertes gemeinsames Editieren (Meetingnotizen)
 
 [EN] [ms powertoys](https://github.com/microsoft/PowerToys/releases/) / Eine kraftvolle Ergänzung für Windows 10 Benutzer
