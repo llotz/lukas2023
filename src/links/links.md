@@ -64,7 +64,7 @@
 
 [EN] [markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) / Eine Beschreibung aller Markdown funktionen
 
-[DE] [use the index, luke](https://use-the-index-luke.com/de) / Eine Website über SQL Performance
+[DE] [use the index, luke](https://use-the-index-luke.com/de) / Eine Handbuch über SQL Performance für Entwickler
 
 [DE] [Clean Code Developer](https://clean-code-developer.de/) / Eine Initiative, um das Bewusstsein für clean code zu steigern
 
