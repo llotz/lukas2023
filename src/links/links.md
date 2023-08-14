@@ -76,9 +76,11 @@
 
 [EN] [syntax.fm](https://syntax.fm/) / Webentwickler Podcast
 
-[DE] [it-berufe podcast](https://it-berufe-podcast.de/category/podcast/) / Podcast rund um die Ausbildung zum Anwendungsentwickler
+[DE] [Index out of Bounds](https://www.ioob.de/) / Entwicklerpodcast, der eine Vielfalt an Themen anschneidet - auch um das Entwicklen herum
 
 [DE] [programmier.bar](https://programmier.bar/) / Ein Podcast um ein Team, das webbasierte Spiele und Webseiten entwickelt
+
+[DE] [it-berufe podcast](https://it-berufe-podcast.de/category/podcast/) / Podcast rund um die Ausbildung zum Anwendungsentwickler
 
 ### Streamer
 
