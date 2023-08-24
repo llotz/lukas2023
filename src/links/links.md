@@ -32,6 +32,8 @@
 
 [EN] [workflowy](https://workflowy.com/) / Online Notizapp als Endlos-Stichpunktliste
 
+[EN] [retronote](https://www.retronote.app/) / Notizapp mit schönem Ansatz. Im Browser für lokale Markdown Notizen (Browser Cache)
+
 [EN] [dwitter](https://dwitter.net) / Soziales Netzwerk: Javascript Rendermechanismen mit max. 140 Zeichen
 
 [EN] [MacroDroid](https://macrodroid.com/) / Automatisierung von Events auf dem Android-Smartphone
