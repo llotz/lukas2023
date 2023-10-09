@@ -40,7 +40,7 @@
 
 [EN] [Winter Whale ASMR auf Youtube](https://www.youtube.com/channel/UCTUz24QLqXue53O4dLuyMtw) / Hintergrundgeräusche zum Fokussieren oder Entspannen
 
-[EN] [Blissful noises](https://blissfulnoises.com/) / Hintergrundgeräusch-Mixer (Web-App)
+[EN] [Noises online](https://noises.online/) / Hintergrundgeräusch-Mixer (Web-App)
 
 [EN] [Bacon Ipsum](https://baconipsum.com/) / Fülltextgenerator für Fleischliebhaber
 
