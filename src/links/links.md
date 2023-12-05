@@ -18,6 +18,8 @@
 
 ### Software
 
+[DE] [Lunar.icu](https://service.lunar.icu/) / Tools zu privatsphäreoptimierten Alternativen bzw. Frontends
+
 [EN] [Caddy 2](https://caddyserver.com/) / Potenter Webserver, Loadbalancer, Reverse Proxy
 
 [EN] [pocketbase](https://pocketbase.io/) / Selbstgehosteted Open Source Backend, optimiert für mobile Anwendungen
@@ -28,7 +30,7 @@
 
 [EN] [my personal kanban](https://greggigon.github.io/my-personal-kanban/) / Kanban-board für die lokale Anwendung im Browser
 
-[DE] [draw.io](https://draw.io/) / Ein Onlinetool für Skizzen, Flussdiagramme etc.
+[DE] [excalidraw](https://excalidraw.com/) / Ein Onlinetool für Skizzen, Flussdiagramme etc.
 
 [EN] [workflowy](https://workflowy.com/) / Online Notizapp als Endlos-Stichpunktliste
 
