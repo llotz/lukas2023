@@ -102,9 +102,12 @@
 
 [DE] [fingers welt](https://fingers-welt.de/home.htm) / durchgepeitschter Bastler
 
+[DE] [Janko.at](https://www.janko.at/Humor/Computerwelt/index.htm) / Sammlung von satirischen Texten mit IT-Bezug
+
 [EN] [folklore](https://www.folklore.org/) / Sammlung mit Anekdoten über die Entstehung und Entwicklung von Apple's Macintosh
 
 [EN] [nathan's toasty tech](http://toastytech.com/) / Die Websites eines Entwicklers mit sehr eigenen Ansichten über Technologie
+
 
 ### Wissen
 
