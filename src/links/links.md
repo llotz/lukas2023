@@ -98,6 +98,8 @@
 
 [DE] [techbotch](http://techbotch.org/) / Blog eines Tüftlers, der von Elektrotechnik bis Heimautomatisierung darumtüdelt
 
+[DE] [Gafu's Blog](http://blog.gafu.de/) / Elektronik und anderes gefrickel
+
 ### Websites
 
 [DE] [fingers welt](https://fingers-welt.de/home.htm) / durchgepeitschter Bastler
