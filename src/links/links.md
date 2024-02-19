@@ -115,6 +115,10 @@
 
 [EN] [Absolute Minimum about Character Sets](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/) / Ein sehr lesenswerter Artikel über Textkodierung und alles, was man darüber wissen sollte
 
+### Recherche
+
+[EN] [ScienceOS](https://scienceos.ai/) / Website, die Fragen wissenschaftlich mit Quellenangaben aus Studien beantwortet. 
+
 ### Kult
 
 [EN] [Bastard Operator from Hell](http://bofharchive.com/) / Das Original: Die Geschichten des Bastard Operator from Hell.
