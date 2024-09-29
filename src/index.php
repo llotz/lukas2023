@@ -23,8 +23,7 @@
 		</a>
 	</div>
 	<div class="tags">
-		Full Stack Softwareentwickler | Schwarztrinker | Kraftsportjünger |
-		Realist | Grillsportanhänger | Feuerwehrmann | 🤘
+		Full Stack Softwareentwickler | Schwarztrinker | Realist | 🤘
 	</div>
 	<img alt="my face" src="img/me2.jpg" class="shitface" />
 	<div class="tagline">
