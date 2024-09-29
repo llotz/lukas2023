@@ -82,6 +82,33 @@
 			an der ein oder anderen Stelle helfen, die Seite nicht direkt zu
 			schließen.
 		</p>
+		<div class="content-header" id="technisch">Technisches</div>
+		<p>
+			Bevor ich es vergesse: Diese Seite und mein Blog sind Experimente. Kernfrage:
+			Mit wie wenig einigermaßen standardisierter Software kann ich eine Seite, 
+			deren Inhalt einigermaßen aktuell aussieht, ausliefern?
+		</p>
+		<p>
+			Ich habe also mittels php eine "Engine" gebaut, die mir die Quelldateien 
+			zusammensucht und ausliefert. In einer einzigen Datei. Mit Favicon, mit CSS
+			und natürlich dem entsprechenden Inhalt. Bei meinem Blog muss ich mich zur
+			Erstellung des Inhaltes natürlich an einer Datenbank bedienen. Dort habe
+			ich die Zeit, die der Webserver benötigt, um die Seite komplett zu rendern, 
+			zusammen mit der Seitengröße in der Fußzeile jeder Seite angezeigt. 
+		</p>
+		<p>
+			Ich bin mit dem Ergebnis zufrieden. Kein Nachladen von Bildern über Javascript.
+			Keine Schriftarten, die ich den Besucher meiner Webseite von Google nachladen lasse.
+			Optimierte oder gar keine Bilder. 
+		</p>
+		<p>
+			Lust zu dem Experiment habe ich bekommen, weil ich immer öfter über Seiten stolpere, 
+			deren einzige Aufgabe es ist, den Besuchern das Leben schwer zu machen. Werbung, die 
+			nachlädt, Cookiebanner, Hunderte Scripts von anderen Servern, die Tracking ermöglichen, 
+			Inhalte erst richtig darstellen oder gar für den Betrieb der Seite relevant sind.
+			Nein danke. Mir gefällt das Internet besser ohne all das. Und es ist mit der 
+			richtigen Motivation umsetzbar.
+		</p>
 		<div class="content-header">Kontakt</div>
 		<p>Gerne über Xing oder Github.</p>
 	</div>
