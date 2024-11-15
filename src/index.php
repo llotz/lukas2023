@@ -23,7 +23,7 @@
 		</a>
 	</div>
 	<div class="tags">
-		Full Stack Softwareentwickler | Schwarztrinker | Realist | 🤘
+		VOLL Stack Softwareentwickler | Schwarztrinker | Realist | 🤘
 	</div>
 	<img alt="my face" src="img/me2.jpg" class="shitface" />
 	<div class="tagline">
