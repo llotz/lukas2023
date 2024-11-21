@@ -129,6 +129,6 @@
 
 [DE] [Solar-Rechner](https://re.jrc.ec.europa.eu/pvg_tools/de/) / Berechnungswerkzeug für die Ausrichtung und Dimensionierung von PV-Anlagen
 
-[DE] [handywerte](https://handywerte.de/) / Strahlungswerte verschiedener Smartphones
+[DE] [handywerte](http://handywerte.de/) / Strahlungswerte verschiedener Smartphones
 
 [DE] [worldometers](https://www.worldometers.info/de/) / Zähler zum Nachdenken
