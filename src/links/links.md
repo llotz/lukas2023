@@ -127,6 +127,8 @@
 
 ### Sonstiges
 
+[DE] [Gut geschmiert](https://www.fingers-welt.de/wiki/index.php?title=Gut_geschmiert) / Eine Zusammenfassung zu Schmier-anwendungen & -stoffen, Fahrzeugschmierung und alles über Öle und Fette im Heimbereich & Kfz
+
 [DE] [Solar-Rechner](https://re.jrc.ec.europa.eu/pvg_tools/de/) / Berechnungswerkzeug für die Ausrichtung und Dimensionierung von PV-Anlagen
 
 [DE] [handywerte](http://handywerte.de/) / Strahlungswerte verschiedener Smartphones
