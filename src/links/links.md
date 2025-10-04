@@ -82,6 +82,8 @@
 
 [DE] [Index out of Bounds](https://www.ioob.de/) / Entwicklerpodcast, der eine Vielfalt an Themen anschneidet - auch um das Entwicklen herum
 
+[DE] [Coding Buddies](https://www.codingbuddies.de/) / Entwicklerpodcast mit angenehmen Hosts, die Inhalte unterhaltsam aufarbeiten
+
 [DE] [programmier.bar](https://programmier.bar/) / Ein Podcast um ein Team, das webbasierte Spiele und Webseiten entwickelt
 
 [DE] [it-berufe podcast](https://it-berufe-podcast.de/category/podcast/) / Podcast rund um die Ausbildung zum Anwendungsentwickler
